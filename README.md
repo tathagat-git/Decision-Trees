@@ -11,15 +11,6 @@ A supervised learning algorithm that splits data into branches based on feature 
   Yes▼               ▼No
 
 
-
-
-  
-Feature B? Class: C1
-│ │
-▼ ▼
-Class C2 Class C3
-
-
 ---
 
 ## 2. Entropy
