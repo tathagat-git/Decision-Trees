@@ -10,6 +10,9 @@ A supervised learning algorithm that splits data into branches based on feature 
      │               │
   Yes▼               ▼No
 
+
+
+
   
 Feature B? Class: C1
 │ │
