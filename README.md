@@ -76,10 +76,5 @@ Grow the full tree first, then remove branches that have little impact.
 ---
 
 ## 🌳 Pruning Workflow
-[Train full tree]
-↓
-[Evaluate branches]
-↓
-[Remove low-impact splits]
-↓
-[Smaller tree → Less overfitting]
+[Train full tree] → [Evaluate branches] → [Remove low-impact splits]  →[Smaller tree → Less overfitting]
+
